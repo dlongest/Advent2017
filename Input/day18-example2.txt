@@ -1,0 +1,6 @@
+set i 31
+set a 1
+mul p 17
+jgz p p
+mul a 2
+add i -1
